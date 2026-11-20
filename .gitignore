@@ -1,0 +1,6 @@
+# Ignorar archivos compilados y configuracion local de NetBeans
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.jar
